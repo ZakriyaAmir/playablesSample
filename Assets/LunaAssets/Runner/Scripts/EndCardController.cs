@@ -367,7 +367,7 @@ public class EndCardController : MonoBehaviour
 
     private void SetIconImage()
     {
-        _iconImage.texture = _iconTexture;
+        //_iconImage.texture = _iconTexture;
     }
 
 
@@ -406,7 +406,7 @@ public class EndCardController : MonoBehaviour
 
     void SetIconColor()
     {
-        _iconImage.color = _iconColor;
+        //_iconImage.color = _iconColor;
     }
 
     private void SetBestFitCTA()

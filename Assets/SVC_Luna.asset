@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -777816280, guid: ae6cac9a4761b4e4aaa0ddc9b3cc54aa, type: 3}
+  m_Script: {fileID: -777816280, guid: 3b265407f565d4a81a675378fa890304, type: 3}
   m_Name: SVC_Luna
   m_EditorClassIdentifier: 
   _svcLunaVersion: 3
